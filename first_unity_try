@@ -1,0 +1,16 @@
+#unity game demo
+因为之前用python做的太丑了，于是来尝试使用引擎
+依旧是抽象作品
+食用当心！
+
+# Unity Game Demo
+
+A small Unity game prototype created while exploring game development workflows after building an earlier Python game.
+The game uses a simple "press space to fly" mechanic. Although the original Unity source project is no longer available, this demo is included to show my early exploration of Unity's scene-based workflow, object behaviour, and visual feedback.
+
+## What I explored
+
+- Unity scene-based development
+- Player movement and keyboard input
+- Visual feedback and simple game interaction
+- Differences between Python-based game development and using a game engine
